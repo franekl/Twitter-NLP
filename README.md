@@ -1,3 +1,3 @@
 # twitter-nlp
 
-Git clone of the Deepnote Project
+Streamlit link: https://jannik-el-twitter-nlp-main-6fzla4.streamlitapp.com
